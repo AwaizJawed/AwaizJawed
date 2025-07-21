@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Livewire, Inertia.js & API integrations**
 - 👯 I’m looking to collaborate on **Open Source Laravel Projects**
 - 💬 Ask me about **Laravel, Blade, Eloquent, REST APIs**
-- 📫 How to reach me: **awaizjawed.dev@gmail.com**
+- 📫 How to reach me: **awaizjawed010@gmail.com**
 - ⚡ Fun fact: I write clean code and break it on weekends 😅
 
 ---
@@ -38,7 +38,7 @@
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/awaizjawed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="mailto:awaizjawed.dev@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/awaizjaved76" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:awaizjawed010@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
   <a href="https://github.com/AwaizJawed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="30" /></a>
 </p>
